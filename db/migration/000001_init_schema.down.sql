@@ -1,0 +1,13 @@
+drop table personal
+drop table member
+drop table user
+drop table address
+drop table Event
+drop table Event_detail
+drop table Attendance
+drop table Attendance_detail
+drop table position
+drop table asset
+drop table recruitment
+drop table recruitment_detail
+drop table treasury
