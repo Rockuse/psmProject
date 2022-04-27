@@ -27,4 +27,5 @@ Step
 		migrate -path db/migration -database "mysql://root:150396Fa@192.168.100.23:3306/psmDB" -verbose up
 3. 
 migrate -path db/migration -database "mysql -h 192.168.100.23 -u root -p 150396Fa psmDB" -verbose up
+https://rauf-rahman.medium.com/connect-docker-and-mysql-in-right-way-95602f833cb0
 
